@@ -15,7 +15,7 @@ const uiTranslations: Record<Language, Record<string, string>> = {
     'nav.equipment': 'Equipment',
     'nav.about': 'About',
     'nav.contact': 'Contact',
-    'hero.title': 'Real Estate, Reliable Construction & Earth Movers & Contract Works',
+    'hero.title': 'Real Estate, Reliable Construction, Earth Movers & Contract Works',
     'hero.ctaQuote': 'Get a Quote',
     'hero.ctaServices': 'Our Services',
     'services.title': 'Services',

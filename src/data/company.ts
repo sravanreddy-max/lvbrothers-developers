@@ -18,7 +18,7 @@ export interface CompanyDetails {
 
 export const company: CompanyDetails = {
   name: "LV Brothers Developers",
-  description: "We undertake Real Estate, civil construction, contracting works, residential and commercial building works, and supply earth moving equipment with experienced operators. We deliver reliable, on‑time projects with quality workmanship and safe practices.",
+  description: "We undertake Real Estate, civil construction, contracting works, residential and commercial building works and supply earth moving equipment with experienced operators. We deliver reliable, on‑time projects with quality workmanship and safe practices.",
   phone: "+91 7207944303",
   email: "info@lvbrothers.in",
   addressLine1: "SM Residency, beside Tirumala High School",
